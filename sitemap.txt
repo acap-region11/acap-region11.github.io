@@ -1,0 +1,10 @@
+https://acap-region11.github.io/
+https://acap-region11.github.io/weather-services/
+https://acap-region11.github.io/cropping-calendar-v2/
+https://acap-region11.github.io/agroclimatic-services/
+https://acap-region11.github.io/bulletins/
+https://acap-region11.github.io/bulletins/weather/
+https://acap-region11.github.io/bulletins/seasonal-outlook/
+https://acap-region11.github.io/bulletins/special-weather-forecast/
+https://acap-region11.github.io/admin/login/
+https://acap-region11.github.io/superadmin/login/
